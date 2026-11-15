@@ -1,0 +1,29 @@
+{
+  "id": "cartas-editor",
+  "title": "Cartas-editor",
+  "description": "<p>Editor de cartas-token para o mestre: escolha um modelo de carta (os seus, com a área da imagem em cor chapada, ou as molduras do módulo com bordas, ornamentos e fundos editáveis), ponha a imagem, mova, aproxime e gire dentro da moldura, escreva o nome e salve. A carta pronta vira retrato e token de um jogador, NPC ou criatura, novo ou já existente, ou só dos tokens selecionados. Só o mestre vê e usa o módulo.</p>",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "rickpigeon",
+      "url": "https://github.com/rickpigeon"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/cartas-editor.css"
+  ],
+  "license": "LICENSE",
+  "url": "https://github.com/rickpigeon/Cartas-editor",
+  "manifest": "https://github.com/rickpigeon/Cartas-editor/releases/latest/download/module.json",
+  "download": "https://github.com/rickpigeon/Cartas-editor/releases/download/v1.0.0/module.zip",
+  "bugs": "https://github.com/rickpigeon/Cartas-editor/issues",
+  "readme": "https://github.com/rickpigeon/Cartas-editor/blob/main/README.md",
+  "changelog": "https://github.com/rickpigeon/Cartas-editor/blob/main/CHANGELOG.md"
+}
